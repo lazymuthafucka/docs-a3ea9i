@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-pgu3l1.kujang138gold.site/sitemap.xml
